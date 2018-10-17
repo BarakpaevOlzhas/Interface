@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\bin\Debug\HouseConstruction.exe.config
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\bin\Debug\HouseConstruction.exe
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\bin\Debug\HouseConstruction.pdb
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\obj\Debug\HouseConstruction.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\obj\Debug\HouseConstruction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\obj\Debug\HouseConstruction.exe
+C:\Users\User\source\repos\HouseConstruction\HouseConstruction\obj\Debug\HouseConstruction.pdb
